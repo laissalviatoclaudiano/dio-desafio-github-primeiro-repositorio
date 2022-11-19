@@ -7,3 +7,5 @@ Repositório criado para o Desafio de Projeto. Possui diretórios com anotaçõe
 [Portugol Webstudio](https://dgadelha.github.io/Portugol-Webstudio/)
 
 [Git](https://git-scm.com/)
+
+[Visual Studio Code](https://code.visualstudio.com/)
