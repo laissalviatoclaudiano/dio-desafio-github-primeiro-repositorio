@@ -14,4 +14,7 @@ Repositório criado para o Desafio de Projeto. Possui diretórios com anotaçõe
 
 [Dribbble](https://dribbble.com/)
 
+[CDN Normalize CSS](https://cdnjs.com/libraries/normalize)
+
+[Google Fonts](https://fonts.google.com/)
 
